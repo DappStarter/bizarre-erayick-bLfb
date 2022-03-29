@@ -1,0 +1,10 @@
+{
+    "name": "DAAP",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/react": true,
+        "/category/onchain/core-token": true,
+        "/category/examples/core-hello_dev": true
+    }
+}
